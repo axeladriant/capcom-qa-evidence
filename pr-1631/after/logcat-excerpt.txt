@@ -1,0 +1,30 @@
+10-05 23:52:55.353 V/Capacitor/Plugin(21113): To native (Capacitor plugin): callbackId: 11723500, pluginId: Preferences, methodName: remove
+10-05 23:52:55.353 V/Capacitor(21113): callback: 11723500, pluginId: Preferences, methodName: remove, methodData: {"key":"token"}
+10-05 23:52:55.354 I/Capacitor/Console(21113): File: https://mobile.capitolcommons.ai/ - Line 360 - Msg: undefined
+10-05 23:52:55.355 V/Capacitor/Plugin(21113): To native (Capacitor plugin): callbackId: 11723501, pluginId: Preferences, methodName: remove
+10-05 23:52:55.355 V/Capacitor(21113): callback: 11723501, pluginId: Preferences, methodName: remove, methodData: {"key":"user"}
+10-05 23:52:55.358 I/Capacitor/Console(21113): File: https://mobile.capitolcommons.ai/ - Line 360 - Msg: undefined
+10-05 23:52:55.359 V/Capacitor/Plugin(21113): To native (Capacitor plugin): callbackId: 11723502, pluginId: Preferences, methodName: remove
+10-05 23:52:55.359 V/Capacitor(21113): callback: 11723502, pluginId: Preferences, methodName: remove, methodData: {"key":"accountType"}
+10-05 23:52:55.361 I/Capacitor/Console(21113): File: https://mobile.capitolcommons.ai/ - Line 360 - Msg: undefined
+10-05 23:52:55.362 V/Capacitor/Plugin(21113): To native (Capacitor plugin): callbackId: 11723503, pluginId: Preferences, methodName: remove
+10-05 23:52:55.362 V/Capacitor(21113): callback: 11723503, pluginId: Preferences, methodName: remove, methodData: {"key":"organization"}
+10-05 23:52:55.363 I/Capacitor/Console(21113): File: https://mobile.capitolcommons.ai/ - Line 360 - Msg: undefined
+10-05 23:52:55.363 V/Capacitor/Plugin(21113): To native (Capacitor plugin): callbackId: 11723504, pluginId: Preferences, methodName: set
+10-05 23:52:55.363 V/Capacitor(21113): callback: 11723504, pluginId: Preferences, methodName: set, methodData: {"key":"membership","value":"{\"role\":\"org_admin\"}"}
+10-05 23:52:55.364 I/Capacitor/Console(21113): File: https://mobile.capitolcommons.ai/ - Line 360 - Msg: undefined
+10-05 23:52:55.365 V/Capacitor/Plugin(21113): To native (Capacitor plugin): callbackId: 11723505, pluginId: Preferences, methodName: remove
+10-05 23:52:55.365 V/Capacitor(21113): callback: 11723505, pluginId: Preferences, methodName: remove, methodData: {"key":"cc_refresh"}
+10-05 23:52:55.366 I/Capacitor/Console(21113): File: https://mobile.capitolcommons.ai/ - Line 360 - Msg: undefined
+10-05 23:52:55.372 D/Capacitor(21113): Handling local request: https://mobile.capitolcommons.ai/pro/login?returnUrl=%2Fpro%2Fhome
+10-05 23:52:55.392 W/Capacitor/Console(21113): File: https://mobile.capitolcommons.ai/assets/index-CwXIKJYp.js - Line 201 - Msg: [LaunchDarkly] Error on stream connection: {"isTrusted":true}, will continue retrying after 670 milliseconds.
+10-05 23:52:55.393 I/Capacitor/Console(21113): File: https://mobile.capitolcommons.ai/assets/index-CwXIKJYp.js - Line 201 - Msg: [LaunchDarkly] Closing stream connection
+10-05 23:52:55.689 W/Capacitor/Console(21113): File: https://mobile.capitolcommons.ai/assets/index-CwXIKJYp.js - Line 201 - Msg: [LaunchDarkly] The waitForInitialization function was called without a timeout specified. In a future version a default timeout will be applied.
+10-05 23:52:55.693 V/Capacitor/Plugin(21113): To native (Capacitor plugin): callbackId: 49812024, pluginId: Preferences, methodName: get
+10-05 23:52:55.693 V/Capacitor(21113): callback: 49812024, pluginId: Preferences, methodName: get, methodData: {"key":"token"}
+10-05 23:52:55.713 I/Capacitor/Console(21113): File: https://mobile.capitolcommons.ai/assets/index-CwXIKJYp.js - Line 201 - Msg: [LaunchDarkly] LaunchDarkly client initialized
+10-05 23:52:55.713 I/Capacitor/Console(21113): File: https://mobile.capitolcommons.ai/assets/index-CwXIKJYp.js - Line 201 - Msg: [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/6984c57c61817809f1095c70/eyJraW5kIjoidXNlciIsImtleSI6ImFub255bW91cyIsImFub255bW91cyI6dHJ1ZX0
+10-05 23:52:56.024 I/Capacitor/Console(21113): File: https://mobile.capitolcommons.ai/pro/login?returnUrl=%2Fpro%2Fhome - Line 360 - Msg: undefined
+10-05 23:52:56.034 I/Capacitor/Console(21113): File: https://mobile.capitolcommons.ai/pro/login?returnUrl=%2Fpro%2Fhome - Line 360 - Msg: undefined
+10-05 23:52:56.034 I/Capacitor/Console(21113): File: https://mobile.capitolcommons.ai/pro/login?returnUrl=%2Fpro%2Fhome - Line 360 - Msg: undefined
+10-05 23:52:56.185 D/nativeloader(21664): InitDefaultPublicLibraries for_preload=1: libandroid.so:libaaudio.so:libamidi.so:libbinder_ndk.so:libc.so:libcamera2ndk.so:libdl.so:libEGL.so:libGLESv1_CM.so:libGLESv2.so:libGLESv3.so:libicu.so:libicui18n.so:libicuuc.so:libjnigraphics.so:liblog.so:libmediandk.so:libm.so:libnativehelper.so:libnativewindow.so:libOpenMAXAL.so:libOpenSLES.so:libRS.so:libstdc++.so:libsync.so:libvulkan.so:libwebviewchromium_plat_support.so:libz.so

@@ -1,0 +1,2 @@
+GET /auth/me -> 401
+{"success":false,"code":"SESSION_ENDED","error":"Session ended"}

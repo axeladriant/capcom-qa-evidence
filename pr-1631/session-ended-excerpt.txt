@@ -1,0 +1,15 @@
+# Device resume-after-revoke (#1631) — tokens redacted
+
+## Server
+GET /auth/me → 401
+{"success":false,"code":"SESSION_ENDED","error":"Session ended"}
+
+## logcat (Capacitor) after resume
+Preferences remove key=token
+Preferences remove key=user
+Preferences remove key=accountType
+Preferences remove key=organization
+Preferences remove key=cc_refresh
+Handling local request: https://mobile.capitolcommons.ai/pro/login?returnUrl=%2Fpro%2Fhome
+
+Elapsed to Pro login on the device: ~3–6s after resume.
